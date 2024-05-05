@@ -1,224 +1,224 @@
-BathsTotal,BedsTotal,CDOM,LotSizeAreaSQFT,SqFtTotal,ElementarySchoolName,ClosePrice
-3.0,4,52,7100.28,2484,Allen,485000.0
-2.1,4,58,8712.0,2631,Fisher,330000.0
-1.1,1,38,1306.8,884,Bright,185000.0
-2.0,3,11,6969.6,1451,Shawnee,210000.0
-2.0,3,89,6098.4,1559,Bright,225000.0
-2.1,2,10,2613.6,1014,Bright,225000.0
-2.0,3,43,5662.8,1640,Tadlock,231000.0
-2.0,3,107,6534.0,1321,Christie,235000.0
-2.0,3,90,5662.8,1883,Tadlock,240000.0
-2.0,4,9,6098.4,1796,Gunstream,240000.0
-2.0,3,17,8276.4,1490,Bright,245000.0
-2.0,3,5,8276.4,1271,Bright,245000.0
-2.1,3,34,3354.12,1718,Bright,247000.0
-2.0,3,68,6098.4,1883,Tadlock,250000.0
-2.0,3,5,9147.6,1737,Bright,250000.0
-2.0,4,21,10890.0,1612,Rogers,250000.0
-2.0,3,81,6098.4,1640,Tadlock,252000.0
-2.0,3,64,6098.4,1391,Gunstream,254950.0
-2.0,3,70,11761.2,1812,Rogers,255000.0
-2.0,3,13,5662.8,1503,Christie,257500.0
-2.1,4,86,21780.0,1931,Gunstream,259000.0
-2.0,4,79,6534.0,1796,Lucille Rogers Ashley,260000.0
-3.0,4,18,4356.0,2158,Gunstream,263000.0
-2.0,3,5,7405.2,1621,Bright,264000.0
-2.1,3,46,5227.2,1792,Shawnee,265000.0
-2.0,3,5,6534.0,1660,Sem,265000.0
-2.0,3,7,6969.6,1883,Tadlock,266000.0
-2.0,3,44,8712.0,1737,Bright,270000.0
-2.0,3,3,6534.0,1719,Christie,270000.0
-2.0,3,32,6969.6,1883,Tadlock,275000.0
-2.0,3,18,9147.6,1736,Bright,275000.0
-2.0,3,46,7405.2,1919,Carroll,275000.0
-2.1,3,11,6534.0,2004,Shawnee,276000.0
-2.0,3,99,7405.2,1807,Sem,277000.0
-2.0,4,27,7143.84,1932,Carroll,280000.0
-2.0,3,5,6969.6,1765,Shawnee,280000.0
-2.1,3,76,3484.8,1854,Gunstream,281000.0
-2.0,3,46,7840.8,2070,Gunstream,282500.0
-2.1,5,53,6969.6,2288,Christie,283000.0
-2.0,4,63,6098.4,1995,Rogers,285000.0
-2.0,3,56,10236.6,1919,Carroll,285000.0
-2.0,3,8,7405.2,1789,Christie,289000.0
-2.0,3,176,9539.64,1919,Carroll,290000.0
-3.0,5,1,6098.4,3445,Tadlock,290000.0
-2.0,3,62,6534.0,2120,Gunstream,290000.0
-2.1,3,5,4356.0,2004,Shawnee,290000.0
-2.0,3,6,7840.8,1660,Tadlock,293000.0
-2.0,4,4,5662.8,2064,Tadlock,294800.0
-2.0,3,9,5662.8,1685,Gunstream,295000.0
-2.0,3,3,6534.0,1801,Christie,295000.0
-2.0,3,14,8276.4,1818,Bright,295500.0
-2.1,3,41,2613.6,2854,Bright,297777.0
-2.1,4,91,6098.4,2906,Tadlock,298000.0
-2.0,4,24,6534.0,1995,Rogers,299000.0
-2.0,4,185,6534.0,1980,Christie,299999.0
-2.1,4,240,9147.6,2212,Christie,300000.0
-2.0,4,89,7405.2,1804,Bright,300000.0
-2.1,3,19,8363.52,2579,Carroll,300000.0
-2.1,4,15,7405.2,2613,Bright,300000.0
-2.0,3,256,7100.28,2143,Carroll,301000.0
-3.0,4,164,6403.32,2260,Sparks,303000.0
-2.0,3,24,6534.0,2186,Sem,305000.0
-2.0,3,35,5227.2,1713,Christie,305000.0
-2.1,2,10,2613.6,1944,Spears,305000.0
-2.0,4,75,6098.4,2405,Tadlock,307000.0
-2.0,4,25,6098.4,2318,Rogers,307000.0
-2.1,4,183,7840.8,2686,Shawnee,310000.0
-2.1,4,84,7405.2,2150,Liscano,310000.0
-2.0,3,24,8712.0,2122,Rogers,312000.0
-2.1,2,43,2482.92,1840,Rogers,313000.0
-2.1,3,53,12632.4,2499,Gunstream,315000.0
-2.1,4,109,10890.0,2598,Carroll,315000.0
-2.1,4,53,6969.6,2287,Sem,315200.0
-3.0,4,87,6098.4,2094,Rogers,318000.0
-3.0,4,80,4791.6,2182,Christie,318000.0
-3.1,5,34,6098.4,2815,Gunstream,321888.0
-2.0,4,3,6969.6,2070,Christie,322000.0
-2.0,3,5,6098.4,2165,Bright,323000.0
-2.1,4,189,5662.8,2906,Tadlock,324000.0
-2.0,3,113,8712.0,2211,Rogers,325000.0
-2.1,4,5,7840.8,3112,Sem,327000.0
-3.0,4,63,3049.2,2243,Spears,330000.0
-3.1,5,5,6534.0,3154,Sem,330000.0
-3.0,4,68,5924.16,2578,Purefoy,334900.0
-2.1,3,34,2221.56,1731,Vaughn,335000.0
-2.0,3,13,4356.0,1896,Christie,336000.0
-3.0,4,27,6534.0,2625,Shawnee,336500.0
-3.0,4,9,11412.72,2367,Carroll,337000.0
-3.0,5,75,6098.4,2654,Rogers,339000.0
-2.0,4,212,8450.64,2458,Fisher,340000.0
-2.0,3,6,0.0,1694,Bright,340000.0
-3.1,5,12,7405.2,3003,Bright,342000.0
-2.0,3,60,0.0,1694,Bright,342990.0
-2.0,3,-6,6185.52,2229,Fisher,345000.0
-2.0,3,102,0.0,1694,Bright,346000.0
-2.1,3,14,4356.0,2747,Christie,349000.0
-3.0,4,124,10018.8,2891,Rogers,350000.0
-2.1,4,71,9147.6,2782,Gunstream,350000.0
-2.1,2,10,2744.28,2061,Vaughn,354000.0
-2.1,3,91,3179.88,2223,Rogers,361100.0
-2.1,3,67,11107.8,2305,Fisher,361500.0
-3.0,4,51,8276.4,3071,Rogers,362000.0
-3.0,4,13,6664.68,2590,Purefoy,362000.0
-3.0,4,145,6751.8,3004,Pink,362000.0
-2.1,4,22,7405.2,3038,Gunstream,362500.0
-2.1,2,110,3484.8,2036,Vaughn,364000.0
-3.1,4,84,8276.4,2737,Gunstream,364000.0
-2.1,4,2,8276.4,2667,Bright,365000.0
-3.1,4,67,6098.4,3047,Bright,366000.0
-3.1,5,3,7405.2,3863,Sem,366000.0
-2.1,4,-62,0.0,2467,Bright,367990.0
-3.0,4,81,8712.0,3136,Tadlock,369000.0
-2.1,4,29,8755.56,2261,Jim Spradley,373000.0
-3.0,5,36,7840.8,2986,Christie,375000.0
-3.1,4,7,9583.2,3350,Sem,375000.0
-3.1,3,293,5401.44,2453,Rogers,379000.0
-4.0,5,202,7840.8,4395,Tadlock,379000.0
-3.0,4,10,11761.2,2930,Rogers,379000.0
-2.1,4,4,5706.36,3226,Purefoy,379000.0
-3.0,4,4,8276.4,3283,Rogers,379900.0
-2.1,4,111,40423.68,2337,Rogers,380000.0
-2.1,3,28,6534.0,2374,Bright,382500.0
-3.0,4,29,8842.68,2865,Newman,385000.0
-3.1,4,2,6664.68,3101,Sparks,385000.0
-3.1,4,60,6229.08,2873,Purefoy,387000.0
-3.1,4,138,8058.6,3613,Judy Rucker,388900.0
-2.1,3,0,2657.16,2253,Rogers,390220.0
-3.0,3,4,0.0,2646,Jim Spradley,392000.0
-3.1,4,136,6969.6,3685,Elliott,395000.0
-3.1,4,181,10890.0,3188,Newman,399000.0
-4.0,4,245,7579.44,3307,Fisher,400000.0
-3.0,4,25,6621.12,2760,Newman,403400.0
-3.1,4,40,8189.28,3276,Purefoy,404000.0
-3.0,3,355,0.0,2887,Bright,404900.0
-3.1,3,480,4356.0,2508,Vaughn,405000.0
-3.1,3,75,4356.0,2511,Vaughn,405000.0
-3.1,4,87,7405.2,3701,Jim Spradley,405000.0
-3.2,4,56,8232.84,3320,Newman,406900.0
-3.1,4,60,8145.72,3278,Fisher,406900.0
-3.1,4,63,6969.6,4198,Tadlock,411000.0
-3.0,5,55,12632.4,3355,Rogers,412000.0
-3.2,4,316,5401.44,3195,Rogers,415000.0
-4.0,4,158,9147.6,3829,Rogers,415000.0
-4.0,5,146,6969.6,4009,Jim Spradley,417500.0
-4.0,5,12,7187.4,3465,Sem,420000.0
-3.1,4,31,7840.8,3003,Vaughn,420000.0
-3.0,4,-13,6621.12,2760,Newman,420250.0
-3.0,4,91,13155.12,2537,Gunstream,420990.0
-2.2,3,488,7405.2,2077,Vaughn,424990.0
-4.1,5,12,5401.44,3195,Rogers,426577.0
-4.0,5,287,6534.0,4230,Tadlock,430000.0
-3.1,4,228,5401.44,3464,Rogers,432000.0
-3.0,4,74,9016.92,2632,Purefoy,435000.0
-4.0,5,87,7927.92,3383,Carroll,435000.0
-3.1,4,170,6098.4,3268,Vaughn,435000.0
-3.0,4,42,10018.8,2653,Vaughn,437231.0
-3.0,4,42,10018.8,2892,Vaughn,438310.0
-3.1,4,29,5401.44,3249,Rogers,440000.0
-3.1,4,171,7361.64,3967,Pink,445000.0
-4.1,5,311,9104.04,4019,Jim Spradley,450000.0
-3.1,4,7,8276.4,3681,Rogers,450000.0
-4.0,5,71,11630.52,3510,Pink,465000.0
-2.1,3,110,5619.24,2917,Vaughn,470000.0
-4.1,5,40,7710.12,4130,Jim Spradley,470000.0
-4.0,4,19,8058.6,3406,Gunstream,474990.0
-2.1,4,11,7797.24,3212,Pink,475000.0
-2.1,3,231,4704.48,2745,Vaughn,477000.0
-4.2,5,41,9060.48,3607,Jim Spradley,479000.0
-3.1,4,57,8276.4,3987,Tadlock,482000.0
-3.0,4,234,11761.2,3511,Spears,515000.0
-4.0,5,3,9147.6,3834,Rogers,515000.0
-3.1,4,100,4965.84,3498,Vaughn,520000.0
-5.0,4,14,7884.36,3600,Pink,525000.0
-3.1,4,28,8450.64,4504,Tadlock,525000.0
-4.0,5,122,9365.4,4385,Pink,528000.0
-4.0,5,9,7318.08,4248,Pink,528000.0
-4.1,4,146,8276.4,3598,Rogers,530000.0
-4.1,4,225,11064.24,3505,Pink,537000.0
-4.0,5,155,0.0,4120,Jim Spradley,540000.0
-4.1,5,128,0.0,4231,Judy Rucker,542000.0
-3.1,4,167,10367.28,3767,Jim Spradley,545000.0
-3.2,4,146,5488.56,3170,Vaughn,550000.0
-4.1,5,17,10236.6,4844,Pink,550000.0
-4.1,5,1,8319.96,3237,Vaughn,555946.0
-4.1,5,252,0.0,3895,Judy Rucker,557284.0
-4.1,4,257,8886.24,4301,Pink,560000.0
-4.1,4,19,8145.72,3789,Rogers,560000.0
-4.1,5,197,0.0,4362,Judy Rucker,565500.0
-3.2,4,115,5662.8,4357,Vaughn,569000.0
-4.0,5,31,8145.72,3986,Rogers,575000.0
-4.1,4,193,9496.08,5167,Vaughn,580000.0
-4.2,4,114,6098.4,3998,Vaughn,580000.0
-3.1,4,166,14679.72,3969,Bright,580000.0
-4.0,5,35,9757.44,4623,Pink,585000.0
-3.1,3,119,7797.24,3364,Nichols,589000.0
-3.1,4,223,16552.8,3499,Rogers,615000.0
-2.1,3,44,5662.8,3141,Vaughn,620345.0
-3.1,4,233,10890.0,4220,Spears,625000.0
-3.1,3,210,12196.8,3192,Newman,629000.0
-3.1,5,3,9757.44,4215,Pink,629900.0
-4.1,5,86,12501.72,4752,Pink,635000.0
-4.2,4,227,7840.8,4188,Spears,650000.0
-2.1,4,16,12240.36,2400,Rogers,650000.0
-4.2,4,189,10890.0,4186,Spears,675000.0
-4.1,4,136,8712.0,3918,Vaughn,700000.0
-4.2,4,2,10497.96,4580,Pink,708760.0
-4.1,4,151,8973.36,4554,Newman,735000.0
-4.1,5,12,14984.64,4404,Vaughn,739900.0
-4.0,4,2,8276.4,3929,Spears,760000.0
-4.2,4,330,9147.6,4080,Newman,777000.0
-4.1,4,127,14418.36,4501,Newman,815000.0
-5.2,5,128,11979.0,4643,Vaughn,820000.0
-4.1,5,22,11194.92,4664,Vaughn,830000.0
-5.1,5,32,12153.24,4892,Carroll,836500.0
-4.0,5,70,12066.12,4788,Vaughn,850000.0
-5.1,5,188,10672.2,4542,Vaughn,870000.0
-5.0,5,51,11325.6,4870,Spears,925000.0
-4.1,5,226,13068.0,5283,Newman,931000.0
-4.1,4,39,12153.24,4758,Carroll,950000.0
-4.1,4,58,16465.68,4140,Spears,970000.0
-4.2,5,166,11717.64,7891,Carroll,1225000.0
-4.1,5,16,23565.96,5805,Spears,1485000.0
-5.2,5,141,24654.96,7291,Newman,1622500.0
+BathsTotal,BedsTotal,CDOM,LotSizeAreaSQFT,SqFtTotal,ElementarySchoolName,ClosePrice,StructuralStyle
+3.0,4,52,7100.28,2484,Allen,485000.0,Single Detached
+2.1,4,58,8712.0,2631,Fisher,330000.0,Single Detached
+1.1,1,38,1306.8,884,Bright,185000.0,Condo/Townhome
+2.0,3,11,6969.6,1451,Shawnee,210000.0,Single Detached
+2.0,3,89,6098.4,1559,Bright,225000.0,Single Detached
+2.1,2,10,2613.6,1014,Bright,225000.0,Condo/Townhome
+2.0,3,43,5662.8,1640,Tadlock,231000.0,Single Detached
+2.0,3,107,6534.0,1321,Christie,235000.0,Single Detached
+2.0,3,90,5662.8,1883,Tadlock,240000.0,Single Detached
+2.0,4,9,6098.4,1796,Gunstream,240000.0,Single Detached
+2.0,3,17,8276.4,1490,Bright,245000.0,Single Detached
+2.0,3,5,8276.4,1271,Bright,245000.0,Single Detached
+2.1,3,34,3354.12,1718,Bright,247000.0,"Attached or 1/2 Duplex, Single Detached"
+2.0,3,68,6098.4,1883,Tadlock,250000.0,Single Detached
+2.0,3,5,9147.6,1737,Bright,250000.0,Single Detached
+2.0,4,21,10890.0,1612,Rogers,250000.0,Single Detached
+2.0,3,81,6098.4,1640,Tadlock,252000.0,Single Detached
+2.0,3,64,6098.4,1391,Gunstream,254950.0,Single Detached
+2.0,3,70,11761.2,1812,Rogers,255000.0,Single Detached
+2.0,3,13,5662.8,1503,Christie,257500.0,Single Detached
+2.1,4,86,21780.0,1931,Gunstream,259000.0,Single Detached
+2.0,4,79,6534.0,1796,Lucille Rogers Ashley,260000.0,Single Detached
+3.0,4,18,4356.0,2158,Gunstream,263000.0,Attached or 1/2 Duplex
+2.0,3,5,7405.2,1621,Bright,264000.0,Single Detached
+2.1,3,46,5227.2,1792,Shawnee,265000.0,Single Detached
+2.0,3,5,6534.0,1660,Sem,265000.0,Single Detached
+2.0,3,7,6969.6,1883,Tadlock,266000.0,Single Detached
+2.0,3,44,8712.0,1737,Bright,270000.0,Single Detached
+2.0,3,3,6534.0,1719,Christie,270000.0,Single Detached
+2.0,3,32,6969.6,1883,Tadlock,275000.0,Single Detached
+2.0,3,18,9147.6,1736,Bright,275000.0,Single Detached
+2.0,3,46,7405.2,1919,Carroll,275000.0,Single Detached
+2.1,3,11,6534.0,2004,Shawnee,276000.0,Attached or 1/2 Duplex
+2.0,3,99,7405.2,1807,Sem,277000.0,Single Detached
+2.0,4,27,7143.84,1932,Carroll,280000.0,Single Detached
+2.0,3,5,6969.6,1765,Shawnee,280000.0,Single Detached
+2.1,3,76,3484.8,1854,Gunstream,281000.0,Single Detached
+2.0,3,46,7840.8,2070,Gunstream,282500.0,Single Detached
+2.1,5,53,6969.6,2288,Christie,283000.0,Single Detached
+2.0,4,63,6098.4,1995,Rogers,285000.0,Single Detached
+2.0,3,56,10236.6,1919,Carroll,285000.0,Single Detached
+2.0,3,8,7405.2,1789,Christie,289000.0,Single Detached
+2.0,3,176,9539.64,1919,Carroll,290000.0,Single Detached
+3.0,5,1,6098.4,3445,Tadlock,290000.0,Single Detached
+2.0,3,62,6534.0,2120,Gunstream,290000.0,Single Detached
+2.1,3,5,4356.0,2004,Shawnee,290000.0,Condo/Townhome
+2.0,3,6,7840.8,1660,Tadlock,293000.0,Single Detached
+2.0,4,4,5662.8,2064,Tadlock,294800.0,Single Detached
+2.0,3,9,5662.8,1685,Gunstream,295000.0,Single Detached
+2.0,3,3,6534.0,1801,Christie,295000.0,Single Detached
+2.0,3,14,8276.4,1818,Bright,295500.0,Single Detached
+2.1,3,41,2613.6,2854,Bright,297777.0,Condo/Townhome
+2.1,4,91,6098.4,2906,Tadlock,298000.0,Single Detached
+2.0,4,24,6534.0,1995,Rogers,299000.0,Single Detached
+2.0,4,185,6534.0,1980,Christie,299999.0,Single Detached
+2.1,4,240,9147.6,2212,Christie,300000.0,Single Detached
+2.0,4,89,7405.2,1804,Bright,300000.0,Single Detached
+2.1,3,19,8363.52,2579,Carroll,300000.0,Single Detached
+2.1,4,15,7405.2,2613,Bright,300000.0,Single Detached
+2.0,3,256,7100.28,2143,Carroll,301000.0,Single Detached
+3.0,4,164,6403.32,2260,Sparks,303000.0,Single Detached
+2.0,3,24,6534.0,2186,Sem,305000.0,Single Detached
+2.0,3,35,5227.2,1713,Christie,305000.0,Single Detached
+2.1,2,10,2613.6,1944,Spears,305000.0,Condo/Townhome
+2.0,4,75,6098.4,2405,Tadlock,307000.0,Single Detached
+2.0,4,25,6098.4,2318,Rogers,307000.0,Single Detached
+2.1,4,183,7840.8,2686,Shawnee,310000.0,Single Detached
+2.1,4,84,7405.2,2150,Liscano,310000.0,Single Detached
+2.0,3,24,8712.0,2122,Rogers,312000.0,Single Detached
+2.1,2,43,2482.92,1840,Rogers,313000.0,Condo/Townhome
+2.1,3,53,12632.4,2499,Gunstream,315000.0,Single Detached
+2.1,4,109,10890.0,2598,Carroll,315000.0,Single Detached
+2.1,4,53,6969.6,2287,Sem,315200.0,Single Detached
+3.0,4,87,6098.4,2094,Rogers,318000.0,Single Detached
+3.0,4,80,4791.6,2182,Christie,318000.0,Single Detached
+3.1,5,34,6098.4,2815,Gunstream,321888.0,Single Detached
+2.0,4,3,6969.6,2070,Christie,322000.0,Single Detached
+2.0,3,5,6098.4,2165,Bright,323000.0,Single Detached
+2.1,4,189,5662.8,2906,Tadlock,324000.0,Single Detached
+2.0,3,113,8712.0,2211,Rogers,325000.0,Single Detached
+2.1,4,5,7840.8,3112,Sem,327000.0,Single Detached
+3.0,4,63,3049.2,2243,Spears,330000.0,Condo/Townhome
+3.1,5,5,6534.0,3154,Sem,330000.0,Single Detached
+3.0,4,68,5924.16,2578,Purefoy,334900.0,Single Detached
+2.1,3,34,2221.56,1731,Vaughn,335000.0,Condo/Townhome
+2.0,3,13,4356.0,1896,Christie,336000.0,Single Detached
+3.0,4,27,6534.0,2625,Shawnee,336500.0,Single Detached
+3.0,4,9,11412.72,2367,Carroll,337000.0,Single Detached
+3.0,5,75,6098.4,2654,Rogers,339000.0,Single Detached
+2.0,4,212,8450.64,2458,Fisher,340000.0,Single Detached
+2.0,3,6,0.0,1694,Bright,340000.0,Single Detached
+3.1,5,12,7405.2,3003,Bright,342000.0,Single Detached
+2.0,3,60,0.0,1694,Bright,342990.0,Single Detached
+2.0,3,-6,6185.52,2229,Fisher,345000.0,Single Detached
+2.0,3,102,0.0,1694,Bright,346000.0,Single Detached
+2.1,3,14,4356.0,2747,Christie,349000.0,Single Detached
+3.0,4,124,10018.8,2891,Rogers,350000.0,Single Detached
+2.1,4,71,9147.6,2782,Gunstream,350000.0,Single Detached
+2.1,2,10,2744.28,2061,Vaughn,354000.0,Condo/Townhome
+2.1,3,91,3179.88,2223,Rogers,361100.0,Condo/Townhome
+2.1,3,67,11107.8,2305,Fisher,361500.0,Single Detached
+3.0,4,51,8276.4,3071,Rogers,362000.0,Single Detached
+3.0,4,13,6664.68,2590,Purefoy,362000.0,Single Detached
+3.0,4,145,6751.8,3004,Pink,362000.0,Single Detached
+2.1,4,22,7405.2,3038,Gunstream,362500.0,Single Detached
+2.1,2,110,3484.8,2036,Vaughn,364000.0,Condo/Townhome
+3.1,4,84,8276.4,2737,Gunstream,364000.0,Single Detached
+2.1,4,2,8276.4,2667,Bright,365000.0,Single Detached
+3.1,4,67,6098.4,3047,Bright,366000.0,Single Detached
+3.1,5,3,7405.2,3863,Sem,366000.0,Single Detached
+2.1,4,-62,0.0,2467,Bright,367990.0,Single Detached
+3.0,4,81,8712.0,3136,Tadlock,369000.0,Single Detached
+2.1,4,29,8755.56,2261,Jim Spradley,373000.0,Single Detached
+3.0,5,36,7840.8,2986,Christie,375000.0,Single Detached
+3.1,4,7,9583.2,3350,Sem,375000.0,Single Detached
+3.1,3,293,5401.44,2453,Rogers,379000.0,Single Detached
+4.0,5,202,7840.8,4395,Tadlock,379000.0,Single Detached
+3.0,4,10,11761.2,2930,Rogers,379000.0,Single Detached
+2.1,4,4,5706.36,3226,Purefoy,379000.0,Single Detached
+3.0,4,4,8276.4,3283,Rogers,379900.0,Single Detached
+2.1,4,111,40423.68,2337,Rogers,380000.0,Single Detached
+2.1,3,28,6534.0,2374,Bright,382500.0,Single Detached
+3.0,4,29,8842.68,2865,Newman,385000.0,Single Detached
+3.1,4,2,6664.68,3101,Sparks,385000.0,Single Detached
+3.1,4,60,6229.08,2873,Purefoy,387000.0,Single Detached
+3.1,4,138,8058.6,3613,Judy Rucker,388900.0,Single Detached
+2.1,3,0,2657.16,2253,Rogers,390220.0,Condo/Townhome
+3.0,3,4,0.0,2646,Jim Spradley,392000.0,Single Detached
+3.1,4,136,6969.6,3685,Elliott,395000.0,Single Detached
+3.1,4,181,10890.0,3188,Newman,399000.0,Single Detached
+4.0,4,245,7579.44,3307,Fisher,400000.0,Single Detached
+3.0,4,25,6621.12,2760,Newman,403400.0,Single Detached
+3.1,4,40,8189.28,3276,Purefoy,404000.0,Single Detached
+3.0,3,355,0.0,2887,Bright,404900.0,Condo/Townhome
+3.1,3,480,4356.0,2508,Vaughn,405000.0,"Garden/Zero Lot Line, Single Detached"
+3.1,3,75,4356.0,2511,Vaughn,405000.0,Single Detached
+3.1,4,87,7405.2,3701,Jim Spradley,405000.0,Single Detached
+3.2,4,56,8232.84,3320,Newman,406900.0,Single Detached
+3.1,4,60,8145.72,3278,Fisher,406900.0,Single Detached
+3.1,4,63,6969.6,4198,Tadlock,411000.0,Single Detached
+3.0,5,55,12632.4,3355,Rogers,412000.0,Single Detached
+3.2,4,316,5401.44,3195,Rogers,415000.0,Single Detached
+4.0,4,158,9147.6,3829,Rogers,415000.0,Single Detached
+4.0,5,146,6969.6,4009,Jim Spradley,417500.0,Single Detached
+4.0,5,12,7187.4,3465,Sem,420000.0,Single Detached
+3.1,4,31,7840.8,3003,Vaughn,420000.0,Single Detached
+3.0,4,-13,6621.12,2760,Newman,420250.0,Single Detached
+3.0,4,91,13155.12,2537,Gunstream,420990.0,Single Detached
+2.2,3,488,7405.2,2077,Vaughn,424990.0,Single Detached
+4.1,5,12,5401.44,3195,Rogers,426577.0,Single Detached
+4.0,5,287,6534.0,4230,Tadlock,430000.0,Single Detached
+3.1,4,228,5401.44,3464,Rogers,432000.0,Single Detached
+3.0,4,74,9016.92,2632,Purefoy,435000.0,Single Detached
+4.0,5,87,7927.92,3383,Carroll,435000.0,Single Detached
+3.1,4,170,6098.4,3268,Vaughn,435000.0,Single Detached
+3.0,4,42,10018.8,2653,Vaughn,437231.0,Single Detached
+3.0,4,42,10018.8,2892,Vaughn,438310.0,Single Detached
+3.1,4,29,5401.44,3249,Rogers,440000.0,Single Detached
+3.1,4,171,7361.64,3967,Pink,445000.0,Single Detached
+4.1,5,311,9104.04,4019,Jim Spradley,450000.0,Single Detached
+3.1,4,7,8276.4,3681,Rogers,450000.0,Single Detached
+4.0,5,71,11630.52,3510,Pink,465000.0,Single Detached
+2.1,3,110,5619.24,2917,Vaughn,470000.0,Single Detached
+4.1,5,40,7710.12,4130,Jim Spradley,470000.0,Single Detached
+4.0,4,19,8058.6,3406,Gunstream,474990.0,Single Detached
+2.1,4,11,7797.24,3212,Pink,475000.0,Single Detached
+2.1,3,231,4704.48,2745,Vaughn,477000.0,Single Detached
+4.2,5,41,9060.48,3607,Jim Spradley,479000.0,Single Detached
+3.1,4,57,8276.4,3987,Tadlock,482000.0,Single Detached
+3.0,4,234,11761.2,3511,Spears,515000.0,Single Detached
+4.0,5,3,9147.6,3834,Rogers,515000.0,Single Detached
+3.1,4,100,4965.84,3498,Vaughn,520000.0,Single Detached
+5.0,4,14,7884.36,3600,Pink,525000.0,Single Detached
+3.1,4,28,8450.64,4504,Tadlock,525000.0,Single Detached
+4.0,5,122,9365.4,4385,Pink,528000.0,Single Detached
+4.0,5,9,7318.08,4248,Pink,528000.0,Single Detached
+4.1,4,146,8276.4,3598,Rogers,530000.0,Single Detached
+4.1,4,225,11064.24,3505,Pink,537000.0,Single Detached
+4.0,5,155,0.0,4120,Jim Spradley,540000.0,Single Detached
+4.1,5,128,0.0,4231,Judy Rucker,542000.0,Single Detached
+3.1,4,167,10367.28,3767,Jim Spradley,545000.0,Single Detached
+3.2,4,146,5488.56,3170,Vaughn,550000.0,Single Detached
+4.1,5,17,10236.6,4844,Pink,550000.0,Single Detached
+4.1,5,1,8319.96,3237,Vaughn,555946.0,Single Detached
+4.1,5,252,0.0,3895,Judy Rucker,557284.0,Single Detached
+4.1,4,257,8886.24,4301,Pink,560000.0,Single Detached
+4.1,4,19,8145.72,3789,Rogers,560000.0,Single Detached
+4.1,5,197,0.0,4362,Judy Rucker,565500.0,Single Detached
+3.2,4,115,5662.8,4357,Vaughn,569000.0,Single Detached
+4.0,5,31,8145.72,3986,Rogers,575000.0,Single Detached
+4.1,4,193,9496.08,5167,Vaughn,580000.0,Single Detached
+4.2,4,114,6098.4,3998,Vaughn,580000.0,"Garden/Zero Lot Line, Single Detached"
+3.1,4,166,14679.72,3969,Bright,580000.0,Single Detached
+4.0,5,35,9757.44,4623,Pink,585000.0,Single Detached
+3.1,3,119,7797.24,3364,Nichols,589000.0,Single Detached
+3.1,4,223,16552.8,3499,Rogers,615000.0,Single Detached
+2.1,3,44,5662.8,3141,Vaughn,620345.0,Single Detached
+3.1,4,233,10890.0,4220,Spears,625000.0,Single Detached
+3.1,3,210,12196.8,3192,Newman,629000.0,Single Detached
+3.1,5,3,9757.44,4215,Pink,629900.0,Single Detached
+4.1,5,86,12501.72,4752,Pink,635000.0,Single Detached
+4.2,4,227,7840.8,4188,Spears,650000.0,Single Detached
+2.1,4,16,12240.36,2400,Rogers,650000.0,"Historical/Conservation Dist., Single Detached"
+4.2,4,189,10890.0,4186,Spears,675000.0,Single Detached
+4.1,4,136,8712.0,3918,Vaughn,700000.0,Single Detached
+4.2,4,2,10497.96,4580,Pink,708760.0,Single Detached
+4.1,4,151,8973.36,4554,Newman,735000.0,Single Detached
+4.1,5,12,14984.64,4404,Vaughn,739900.0,Single Detached
+4.0,4,2,8276.4,3929,Spears,760000.0,Single Detached
+4.2,4,330,9147.6,4080,Newman,777000.0,Single Detached
+4.1,4,127,14418.36,4501,Newman,815000.0,Single Detached
+5.2,5,128,11979.0,4643,Vaughn,820000.0,Single Detached
+4.1,5,22,11194.92,4664,Vaughn,830000.0,Single Detached
+5.1,5,32,12153.24,4892,Carroll,836500.0,Single Detached
+4.0,5,70,12066.12,4788,Vaughn,850000.0,Single Detached
+5.1,5,188,10672.2,4542,Vaughn,870000.0,Single Detached
+5.0,5,51,11325.6,4870,Spears,925000.0,Single Detached
+4.1,5,226,13068.0,5283,Newman,931000.0,Single Detached
+4.1,4,39,12153.24,4758,Carroll,950000.0,Single Detached
+4.1,4,58,16465.68,4140,Spears,970000.0,Single Detached
+4.2,5,166,11717.64,7891,Carroll,1225000.0,Single Detached
+4.1,5,16,23565.96,5805,Spears,1485000.0,Single Detached
+5.2,5,141,24654.96,7291,Newman,1622500.0,Single Detached
